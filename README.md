@@ -55,5 +55,5 @@ rye run {project_name}
 ### lazyvimの設定
 
 追加したパッケージがimportで呼べないことがあった以下をcode.luaに記述して解決
-
+`<space>cv`から使用する環境を選択
 [Context: "https://github.com/LazyVim/LazyVim/issues/1386#issuecomment-1720957273"]
