@@ -1,0 +1,6 @@
+{
+  "name": "bmo-api",
+  "description": "HerokuでFastAPIによるWebAPIを作成するためのテンプレート",
+  "repository": "https://git.heroku.com/bmo-api.git",
+  "keywords": ["python", "fastapi"]
+}
